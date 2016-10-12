@@ -6,3 +6,4 @@ user1 add new XXX
 user2 update XXX
 local2 update
 one update
+two update
