@@ -11,5 +11,4 @@ other user update 13:39
 cena temp update 15:25
 cena temp update 15:26
 cena temp update 15:27
-lalala
 hahaha
